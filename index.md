@@ -2,4 +2,4 @@
 
 https://guides.github.com/features/mastering-markdown/
 
-*## My amazing website##*
+*My amazing website*
