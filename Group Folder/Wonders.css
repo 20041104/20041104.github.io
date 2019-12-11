@@ -1,0 +1,22 @@
+body {background-color: #556B2F;
+background-image: url("./hawl.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{color: white;
+  background-color: powberblue;
+  margin: 5pt;
+  text-align: center;
+  font-size: 38pt;
+  line-height: 3;
+  font-style: bold;}
+
+h2{color: white;
+  background-color: clarity;
+  margin: 3pt;
+  text-align: center;
+  font-size: 13pt;
+  line-height: 1;}
+
+a{color: forestgreen;}
