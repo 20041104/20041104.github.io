@@ -11,7 +11,7 @@ https://guides.github.com/features/mastering-markdown/
 
 #Front Page
 
-+[My Website #2](./page.md)
++[>> My Website #2](./page.md)
 +[Page2](/page2)
 +[Page3](/page3)
 
