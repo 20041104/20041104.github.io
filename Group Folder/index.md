@@ -7,3 +7,6 @@ description: Made by 20041104
 *International Gateway*
 
 CubeForm
+
+[Bigar Warefall]()
+_7 Wonders in the Universe_
