@@ -1,0 +1,78 @@
+body {background-repeat: no-repeat;
+  background-image: url("background.jpg");
+  background-size: cover;}
+
+h1 {color: limegreen;
+  margin: 17pt;
+  text-align: center;
+  font-size: 37pt;
+  line-height: 1;
+  font-family: forte;}
+
+h2 {color: forestgreen;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: sans serif;}
+
+th{color: #DEB887;
+   text-align: center;
+   margin: 15pt;
+   font-family: Bradley hand ITC;
+   font-size: 22pt;}
+
+h3{color:green;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: COMIC SANS MS;}
+
+button{width: 300px;
+       height: 100px;
+       font-size: 17.5pt;}
+
+hr{color:#d2b48c;
+  height: 10px;
+  width: 900px;
+  border:1px solid #d2b48c;
+  background-color:#d2b48c;}
+
+  .container{
+      width: available;
+      height: available;
+  }
+  .middlepane{
+     width: 50%;
+     min-width: 800px;
+     height: available;
+     min-height: 50px;
+     float: left;
+     border-collapse: collapse;
+     text-align: center;
+     font-size: 48pt;
+     font-family: Forte;
+  }
+  .leftpane{
+      width: 20%;
+      min-width: 100px;
+      height: available;
+      min-height: 400px;
+      float: left;
+      border-collapse: collapse;
+  }
+  .rightpane{
+      width: available;
+      height: available;
+      position: relative;
+      margin-left: 75%;
+      border-collapse: collapse;
+  }
+a{display: inline;
+  color: rgba(0, 124, 27);
+   font-family: COMIC SANS MS;}
+
+h3{margin: 3pt;
+  text-align: center;
+  line-height: 1;}
