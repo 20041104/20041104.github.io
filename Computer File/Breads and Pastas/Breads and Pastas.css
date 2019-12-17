@@ -1,0 +1,53 @@
+body {background-repeat: no-repeat;
+  background-image: url("./background.jpg");
+  background-size: cover;}
+
+h1 {color: peru;
+  margin: 20pt;
+  text-align: center;
+  font-size: 30pt;
+  line-height: 1;
+  font-family: forte;}
+
+h2 {color: saddlebrown;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: sans serif;}
+
+p{color: black;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: comic sans ms;}
+
+hr{color:maroon;
+  height: 10px;
+  width: 850px;
+  border:1px solid;
+  border-color: maroon;
+  background-color:maroon;}
+
+th{color: #004300;
+  margin: 10pt;
+   text-decoration: underline;
+   text-align: center;
+   font-size: 20pt;}
+
+table{text-align: center;
+    background-color:white;}
+
+button{width: 99px;
+      height: 40px;
+      font-size: 12pt;
+      color: black;
+      background-color: #63D13E;
+      margin: 5pt;
+      font-family: forte;}
+
+      a{display: inline;
+        color: rgba(0, 124, 27);
+         font-family: COMIC SANS MS;} 
+      

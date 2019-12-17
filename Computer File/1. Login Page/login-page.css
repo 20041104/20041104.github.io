@@ -1,0 +1,12 @@
+body {background-repeat: no-repeat;
+background-image: url("./leaf background.jpg");
+background-size: cover;
+}
+tr{color: #004600;
+    margin: 10pt;
+     text-align: center;
+     font-family: forte;
+     font-size: 20pt;}
+  
+  table{text-align: center;
+      background-color:rgba(255, 255, 255, 0.50);}
