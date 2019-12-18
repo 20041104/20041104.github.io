@@ -1,0 +1,38 @@
+body {background-repeat: repeat;
+background-image: url("../background.jpg");
+background-size: contain; 
+background-color:rgba(255, 255, 255, 0.50);}
+}
+  
+  hr{color: #D3FFCF;
+    height: 10px;
+    width: 850px;
+    border:1px solid;
+    border-color: #D3FFCF;
+    background-color:#D3FFCF;}
+
+  table{background-color:rgba(255, 255, 255, 0.50);
+  }
+  td {
+    height: 100px;
+
+}
+
+td.ingredients {
+    text-align: right;
+}
+td.one {
+    text-align: right;
+}
+td.third {
+    text-align: right;
+}
+td.fifth {
+    text-align: right;
+}
+ h2{font-size: 14pt;}
+    p { 
+        font-size: 12px;
+    }
+
+    
