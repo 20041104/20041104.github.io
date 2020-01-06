@@ -1,0 +1,19 @@
+body{
+    background-image: url("./bac.jpg");
+    /*https://png.pngtree.com/element_our/md/20180428/
+    md_ae7c2f905423c01e40f87d40b7cdce12.jpg*/
+}
+
+h2{
+    text-align: left;
+    vertical-align: 700px;
+}
+/*div {
+    display: inline-block; 
+    width: 100%;
+    height: 200px;
+    vertical-align: middle; 
+    line-height: 200px;
+    text-align: center; 
+    border: 3px dashed #1c87c9;  
+  }*/
