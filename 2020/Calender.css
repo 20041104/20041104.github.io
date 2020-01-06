@@ -1,0 +1,79 @@
+body{
+    width: available;
+    height: available;
+    background-image: linear-gradient(rgb(244, 249, 253), white);
+    
+}
+.container{
+    width: available;
+    height: available;
+}
+.leftpane{
+    width: 220px;
+    min-width: 0px;
+    height: available;
+    min-height: 400px;
+    float: left;
+    background-color: rgb(253, 253, 253);
+    border-collapse: collapse;
+}
+.middlepane{
+   width: available;/*900px*/
+   min-width: 0px;
+   height: available;
+   min-height: 800px;
+   float: left;
+   border-collapse: collapse;
+}
+.rightpane{
+    width: 225px;
+    height: available;
+    position: right;
+    margin-left: 83%;
+    background-color: rgb(253, 253, 253);
+    float: top;
+    border-collapse: collapse;
+}
+.toppane{
+    width: available;
+    height: 240px;
+    background-image: url("./doc1.png");
+    /*https://images.assetsdelivery.com/compings_v2/
+    ryanking999/ryanking9991612/ryanking999161200272.jpg*/
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-collapse: collapse;
+}
+ td{
+    border-collapse: separate;
+    border-radius: 6px;
+    border-color: rgb(127, 180, 224);
+    width: 110px;
+    vertical-align: top;
+    
+}
+ button{
+     width: 125px;
+     height: 30px;
+     border-radius: 5px;
+ }
+.boxed{
+    border: 1px solid white;
+    background-image: linear-gradient(rgb(252, 252, 252), rgb(255, 255, 255));
+}
+table{
+    border: transparent;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
+.at{
+    font-family: monospace;
+}
+tr{
+    width: 110px;
+}
+.week{
+    height: 80px;
+}
