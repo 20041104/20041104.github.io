@@ -9,7 +9,7 @@ body{
     height: available;
 }
 .leftpane{
-    width: 220px;
+    width: 120px;
     min-width: 0px;
     height: available;
     min-height: 400px;
