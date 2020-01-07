@@ -24,7 +24,6 @@ body{
    min-height: 800px;
    float: left;
    border-collapse: collapse;
-   margin: left;
 }
 .rightpane{
     width: 215px;
