@@ -18,7 +18,7 @@ body{
     border-collapse: collapse;
 }
 .middlepane{
-   width: 885px;/*900px*/
+   width: 899px;/*900px*/
    min-width: 0px;
    height: available;
    min-height: 800px;
