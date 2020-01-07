@@ -26,7 +26,7 @@ body{
    border-collapse: collapse;
 }
 .rightpane{
-    width: 225px;
+    width: 215px;
     height: available;
     position: right;
     margin-left: 83%;
